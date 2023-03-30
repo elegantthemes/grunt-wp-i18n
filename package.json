@@ -20,7 +20,7 @@
     "test": "grunt test"
   },
   "dependencies": {
-    "grunt": "^1.0.3",
+    "grunt": "1.0.3",
     "node-wp-i18n": "^1.2.2"
   },
   "devDependencies": {
